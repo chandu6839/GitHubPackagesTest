@@ -1,5 +1,5 @@
 {
-  "name": "@chandu/GitHubPackagesTest",
+  "name": "@chandu6839/GitHubPackagesTest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chandu6839/GitHubPackagesTest/issues"
   },
-  "homepage": "https://github.com/chandu6839/GitHubPackagesTest#readme"
+  "homepage": "https://github.com/chandu6839/GitHubPackagesTest#readme",
+  "publishConfig": {
+    "@chandu6839:registry": "https://npm.pkg.github.com"
+  }
 }
